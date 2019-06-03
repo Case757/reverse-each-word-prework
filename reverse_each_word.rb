@@ -9,4 +9,4 @@ end
 
 def reverse_each_word(sentence)
   mySentence = sentence.split
-  mySentence.collect 
+  mySentence.collect {|word
